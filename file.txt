@@ -1,0 +1,14 @@
+echo " helo world"
+
+
+cd
+
+
+
+clear
+cd..
+
+
+cd folder
+
+vi newfile.txt
